@@ -12,3 +12,4 @@ Impresion de consola
 
 Incluye un metodo que permite al sistema automaticamente asignar un ID con el valor minimo y formato especifico a la hora de agregar un producto.
 ![](https://iili.io/JqFdkSn.png)
+![](https://iili.io/JqxQQwb.png)
