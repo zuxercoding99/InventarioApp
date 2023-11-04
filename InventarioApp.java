@@ -94,7 +94,7 @@ class Product {
 	}
 
 	public void setQuantityStock(int quantity){
-
+		this.quantityStock = quantity;
 	}
 }
 
